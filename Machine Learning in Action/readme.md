@@ -1,8 +1,8 @@
 # This document contains the recordings of the Machine learning in Action talk series.
-| S.No 	| Date       	| Title        	| Speaker             	| Recording Link                                                                     	|
+| S.No 	| Date       	| Speaker        	| Title             	| Recording Link                                                                     	|
 |------	|------------	|--------------	|---------------------	|------------------------------------------------------------------------------------	|
-| 1    	| Monday, December 13, 2021 	| Autoencoders 	| Annada Prasad Behera 	| https://drive.google.com/file/d/1osrgJ-nmqoFngx1xWW98GRWU6o6XqgzH/view?usp=sharing 	|
-| 2    	| Saturday, December 18, 2021	| Classifying with k-nearest neighbours	| Arunima Dutta| https://drive.google.com/file/d/1W9hdKyFY693Uwbr4jOmKhCMKspWBYUoG/view?usp=drive_web|
+| 1    	| Monday, December 13, 2021 	| Annada Prasad Behera	| Autoencoders 	| https://drive.google.com/file/d/1osrgJ-nmqoFngx1xWW98GRWU6o6XqgzH/view?usp=sharing 	|
+| 2    	| Saturday, December 18, 2021	| Arunima Dutta	| Classifying with k-nearest neighbours| https://drive.google.com/file/d/1W9hdKyFY693Uwbr4jOmKhCMKspWBYUoG/view?usp=drive_web|
 | 3    	| Monday, December 20, 2021 | Jyotirmaya Shivottam | Splitting datasets one feature at a time: decision trees | https://drive.google.com/file/d/1p-6cOduJGr8tGBb1x-KKqf3Crta4He39/view?usp=drive_web |
 | 4 | Monday, January 3, 2022 | Jyotish Kumar | Classifying with probability theory: naïve Bayes | https://drive.google.com/file/d/13bVm-qxqVblTJBtF-OJ202UcxUJNwiWR/view?usp=drive_web |
 | 5 | Thursday, January 6, 2022 | Pinky Pradhan | Logistic regression | https://drive.google.com/file/d/1vv-AqrDA8DgwZf938gwaf7hlwhUP5Wv0/view?usp=drive_web |
