@@ -10,5 +10,5 @@
 | 7 | Thursday, January 13, 2022 | Sahel Mohammad Iqbal | Improving classification with the AdaBoost meta-algorithm | https://drive.google.com/file/d/1k6jEqYW35AjQv-sUBrmP0PYIGgENu91_/view?usp=drive_web |
 | 8 | Monday, January 17, 2022 | Sasmita Pandey | Predicting numeric values: regression | https://drive.google.com/file/d/1bc5uJ5HnOAVBwQm0_icGoATJyBsO_oHP/view?usp=drive_web |
 | 9 | Thursday, January 20, 2022 | Saswat Das | Tree-based regression | https://drive.google.com/file/d/1qwEfprJu-SWuAtchWqIhHN6hiQJSY6qO/view?usp=drive_web |
-| 10 | Monday, January 24, 2022 | Shriman Keshri | Grouping unlabeled items using k-means clustering | |
+| 10 | Monday, January 24, 2022 | Shriman Keshri | Grouping unlabeled items using k-means clustering | https://drive.google.com/file/d/1CIkhQ8h0VRDFFStfPutDjR0Um0zO4owH/view?usp=drive_web |
 | 11 | Thursday, January 27, 2022 | Tata Satya Prathek | Association analysis with the Apriori algorithm | |
