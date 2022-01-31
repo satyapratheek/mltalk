@@ -1,5 +1,5 @@
 # This document contains the recordings of the Machine learning in Action talk series.
-| S.No 	| Date       	| Speaker        	| Title             	| Recording Link                                                                     	|
+| S.No 	| Date       	| Speaker        	| Title             	| Talk recording/slides                                                                     	|
 |------	|------------	|--------------	|---------------------	|------------------------------------------------------------------------------------	|
 | 1    	| Monday, December 13, 2021 	| Annada Prasad Behera	| Autoencoders 	| https://drive.google.com/file/d/1osrgJ-nmqoFngx1xWW98GRWU6o6XqgzH/view?usp=sharing 	|
 | 2    	| Saturday, December 18, 2021	| Arunima Dutta	| Classifying with k-nearest neighbours| https://drive.google.com/file/d/1W9hdKyFY693Uwbr4jOmKhCMKspWBYUoG/view?usp=drive_web|
